@@ -67,7 +67,7 @@ body{
 }
 
 header{
-    background-image: linear-gradient(to top,var(--primary-color),transparent),url("header.jpg");
+    background-image: linear-gradient(to top,var(--primary-color),transparent),url("images/header.jpg");
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
